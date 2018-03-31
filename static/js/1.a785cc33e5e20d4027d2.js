@@ -1,2 +1,0 @@
-webpackJsonp([1],{"8vLM":function(e,t){},"aek+":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  this is editor page\n")])},staticRenderFns:[]};var r=n("VU/8")({},i,!1,function(e){n("8vLM")},"data-v-5d45f1e0",null);t.default=r.exports}});
-//# sourceMappingURL=1.a785cc33e5e20d4027d2.js.map
